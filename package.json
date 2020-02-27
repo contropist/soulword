@@ -1,0 +1,27 @@
+{
+  "name": "soulword",
+  "version": "0.1.0",
+  "description": "A scheme for creating private keys based on private memories.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiangfuyao/soulword.git"
+  },
+  "keywords": [
+    "private",
+    "key",
+    "blockchain"
+  ],
+  "author": "Fuyao Jiang | 0xThreeBody from Acala Network",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jiangfuyao/soulword/issues"
+  },
+  "homepage": "https://github.com/jiangfuyao/soulword#readme",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
