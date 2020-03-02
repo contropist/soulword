@@ -83,7 +83,6 @@ $ git clone https://github.com/jiangfuyao/soulword.git
 $ cd soulword/
 $ npm install
 $ node index.js
-
 ```
 
 Running example(`C0806592` is the company number of APPLE INC.): 
